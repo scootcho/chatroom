@@ -7,7 +7,8 @@ gem 'faye'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-
+gem 'private_pub', :git => 'git://github.com/ryanb/private_pub.git'
+gem 'thin'
 
 # Gems used only for assets and not required
 # in production environments by default.
